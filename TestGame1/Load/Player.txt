@@ -1,0 +1,2 @@
+﻿Load=[Health][Frames][Image][Position]
+[100][3 4][Warrior][0 0]

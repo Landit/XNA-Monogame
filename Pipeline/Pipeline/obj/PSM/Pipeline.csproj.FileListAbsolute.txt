@@ -1,0 +1,5 @@
+C:\Users\Landit\documents\visual studio 2012\Projects\TestGame1\Pipeline\Pipeline\bin\PSM\Content\Font1.xnb
+C:\Users\Landit\documents\visual studio 2012\Projects\TestGame1\Pipeline\Pipeline\bin\PSM\IgnoreMe.dll
+C:\Users\Landit\documents\visual studio 2012\Projects\TestGame1\Pipeline\Pipeline\obj\PSM\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Landit\documents\visual studio 2012\Projects\TestGame1\Pipeline\Pipeline\obj\PSM\IgnoreMe.dll
+C:\Users\Landit\Documents\Visual Studio 2012\Projects\TestGame1\Pipeline\Pipeline\obj\PSM\Pipeline.csprojResolveAssemblyReference.cache

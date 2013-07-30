@@ -1,0 +1,4 @@
+﻿Load=[Image]
+[SplashScreenOne]
+[Person1]
+[Barrel]
